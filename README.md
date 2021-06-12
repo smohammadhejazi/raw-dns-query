@@ -1,7 +1,7 @@
 # Raw Dns Query
 This is a simple program sending dns query to an specifed server.
 
-## Feutures
+## Features
 - Recursive dns query
 - Iterative dns query
 - Finding type A records of all host names in a single CSV file
