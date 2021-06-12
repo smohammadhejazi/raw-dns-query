@@ -18,6 +18,7 @@ python main.py <host name> <dns server> 0
 ```
 
 - Finding type A records
+
 Note:  This uses recursive dns to find the IPv4 of the host names
 ```sh
 python main.py csv <dns server>
